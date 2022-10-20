@@ -1,0 +1,16 @@
+<html>
+<body>
+<input type="text" id="color">
+<input type="button" onclick="changecolor();" />
+<div id="div1">
+java script test
+</div>
+</body>
+</html>
+<script>
+function changecolor()
+{
+  var c=document.getElementById("color").value;
+document.getelementById("div1").style.backgroundColor=c;
+}
+</script>

@@ -1,0 +1,38 @@
+*{
+	font-family: Arial;
+	text-align: center;
+}
+
+div.main{
+	text-align: center;
+    border:1px solid rgb(22, 9, 9);
+	margin-top: 50px;
+	margin-left: 180px;
+	margin-right: 350px;
+    background-image: url("ppr.png");
+    background-color: white;
+    background-size: 20px 50px;
+    height: 900px;
+    width: 900px;
+    
+}
+.square {
+    height: 600px;
+    width: 500px;
+    border:1px solid rgb(22, 9, 9);
+    margin-left: 210px;
+   
+    background-color:white;
+  }
+ 
+
+  
+h2{
+	font-size:25;
+	
+}
+
+
+
+
+

@@ -1,0 +1,64 @@
+*{
+	font-family: Arial;
+	text-align: center;
+}
+
+div.main{
+	text-align: center;
+	margin-top: 50px;
+	margin-left: 350px;
+	margin-right: 350px;
+    background-image: url("ppr.png");
+    background-color: #cccccc;
+    background-size: 20px 50px;
+    height: 400px;
+    width: 550px;
+    
+}
+.square {
+    height: 120px;
+    width: 300px;
+    border:1px solid rgb(237, 44, 44);
+    margin-left: 98px;
+    border-top-left-radius: 15px;
+    background-color:rgb(228, 223, 183);
+  }
+  .square2 {
+    height: 120px;
+    width: 300px;
+    box-shadow: 5px 10px 8px #888888;
+    font-family: Arial;
+    border:1px solid rgb(172, 47, 47);
+    margin-left: 98px;
+    border-bottom-left-radius: 15px;
+    background-color:rgb(228, 223, 183);
+  }
+
+  .curriculum {
+    height: 120px;
+    width: 300px;
+    box-shadow: 5px 10px 8px #888888;
+    font-family: Arial;
+    border:1px solid rgb(172, 47, 47);
+    margin-left: 98px;
+    border-bottom-left-radius: 15px;
+    background-color:rgb(228, 223, 183);
+    text-align: center;
+	margin-top: 50px;
+	margin-left: 350px;
+	margin-right: 350px;
+    background-image: url("ppr.png");
+    background-color: #cccccc;
+    background-size: 20px 50px;
+    height: 400px;
+    width: 550px;
+  }
+h2{
+	font-size:25;
+	
+}
+
+
+
+
+
